@@ -1,0 +1,17 @@
+.countryDiv{
+    border: 3px solid gray;
+    margin: 10px;
+    border-radius: 20px;
+    width: 500px;
+
+}
+.countryDiv img{
+    height: 100px;
+}
+button{
+    background-color: hotpink;
+    padding: 10px 25px;
+    border-radius: 15px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
